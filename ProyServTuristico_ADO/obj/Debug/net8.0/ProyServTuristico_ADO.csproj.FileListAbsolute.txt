@@ -1,0 +1,135 @@
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CopyComplete
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+E:\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+E:\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+E:\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+E:\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+E:\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+E:\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.deps.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_ADO.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\bin\Debug\net8.0\ProyServTuristico_BE.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.AssemblyReference.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfoInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.AssemblyInfo.cs
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.csproj.CoreCompileInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServ.A493B394.Up2Date
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\refint\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ProyServTuristico_ADO.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_ADO\obj\Debug\net8.0\ref\ProyServTuristico_ADO.dll

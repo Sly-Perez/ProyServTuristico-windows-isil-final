@@ -1,0 +1,22 @@
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\bin\Release\net8.0\ProyServTuristico_BE.deps.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\bin\Release\net8.0\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\bin\Release\net8.0\ProyServTuristico_BE.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.AssemblyInfoInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.AssemblyInfo.cs
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.csproj.CoreCompileInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\refint\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ref\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\bin\Release\net8.0\ProyServTuristico_BE.deps.json
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\bin\Release\net8.0\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\bin\Release\net8.0\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.AssemblyInfo.cs
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\refint\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BE\obj\Release\net8.0\ref\ProyServTuristico_BE.dll

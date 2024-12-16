@@ -1,0 +1,96 @@
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.Login.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.exe
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.dll.config
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.deps.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BL.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BE.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BL.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_ADO.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServ.356065BF.Up2Date
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\refint\ProyServTuristico_GUI.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ref\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.exe
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.dll.config
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.deps.json
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_BL.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\bin\Release\net8.0-windows\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.Login.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServ.356065BF.Up2Date
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\refint\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ref\ProyServTuristico_GUI.dll

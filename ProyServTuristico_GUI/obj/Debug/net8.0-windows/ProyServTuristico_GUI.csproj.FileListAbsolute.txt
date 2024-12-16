@@ -1,0 +1,396 @@
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+C:\APLICACIONES1\ProyectoDAI\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CopyComplete
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+D:\DA1\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+D:\ISIL\DES. APP I\sem 9\ProyServTuristico-con-categoria\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Login.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+C:\Users\Cote1\OneDrive\Escritorio\Parcial\Nueva carpeta\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+E:\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Login.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+E:\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Login.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+D:\ISIL\DES. APP I\proyectos\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Login.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+C:\Users\renzo\source\repos\ProyServTuristico\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.exe
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll.config
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.deps.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.runtimeconfig.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BE.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_BL.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\bin\Debug\net8.0-windows\ProyServTuristico_ADO.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.AssemblyReference.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.CategoriaMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClienteMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ClientesMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.EmpleadoMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Login.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.MenuPrincipalForm.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.Properties.Resources.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan01.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan02.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.ReservaMan03.resources
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.GenerateResource.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfoInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.AssemblyInfo.cs
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.csproj.CoreCompileInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServ.356065BF.Up2Date
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\refint\ProyServTuristico_GUI.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_GUI\obj\Debug\net8.0-windows\ref\ProyServTuristico_GUI.dll

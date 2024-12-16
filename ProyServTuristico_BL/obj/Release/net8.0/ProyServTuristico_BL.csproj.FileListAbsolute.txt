@@ -1,0 +1,34 @@
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BL.deps.json
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BL.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BL.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_ADO.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BE.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_ADO.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BE.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.csproj.AssemblyReference.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.AssemblyInfoInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.AssemblyInfo.cs
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.csproj.CoreCompileInputs.cache
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServ.E201CD15.Up2Date
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\refint\ProyServTuristico_BL.dll
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.pdb
+E:\Ep4\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ref\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BL.deps.json
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BL.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BE.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_ADO.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\bin\Release\net8.0\ProyServTuristico_BE.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.csproj.AssemblyReference.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.AssemblyInfoInputs.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.AssemblyInfo.cs
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServ.E201CD15.Up2Date
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\refint\ProyServTuristico_BL.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ProyServTuristico_BL.pdb
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_BL\obj\Release\net8.0\ref\ProyServTuristico_BL.dll
