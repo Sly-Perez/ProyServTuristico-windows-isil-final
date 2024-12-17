@@ -263,14 +263,7 @@ namespace ProyServTuristico_GUI
             }
         }
 
-        /***************************************************
-        private void txtTotal_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            WE HAVE CHANGED THE PROPERTY OF OUR txtTotal 
-            ReadOnly = true;
 
-        }
-        ******************************************************/
         private void btnAgregarCliente_Click(object sender, EventArgs e)
         {
             try

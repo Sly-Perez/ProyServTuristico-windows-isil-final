@@ -88,7 +88,7 @@ namespace ProyServTuristico_GUI
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
 
 
@@ -99,6 +99,12 @@ namespace ProyServTuristico_GUI
                 MessageBox.Show("El DNI debe tener exactamente 8 dígitos.", "Validación", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 e.Cancel = true;
             }
+        }
+
+        private void txtDni_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !(char.IsDigit(e.KeyChar)
+                    || e.KeyChar == (char)Keys.Back);
         }
     }
 }

@@ -28,11 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DataGridViewCellStyle dataGridViewCellStyle6 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle7 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle8 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle9 = new DataGridViewCellStyle();
-            DataGridViewCellStyle dataGridViewCellStyle10 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle4 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle5 = new DataGridViewCellStyle();
             label1 = new Label();
             btnAgregar = new Button();
             btnActualizar = new Button();
@@ -124,8 +124,8 @@
             // ID_Reserva
             // 
             ID_Reserva.DataPropertyName = "ID_Reserva";
-            dataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleCenter;
-            ID_Reserva.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            ID_Reserva.DefaultCellStyle = dataGridViewCellStyle1;
             ID_Reserva.HeaderText = "CodReserva";
             ID_Reserva.MinimumWidth = 6;
             ID_Reserva.Name = "ID_Reserva";
@@ -134,9 +134,9 @@
             // Fec_Res
             // 
             Fec_Res.DataPropertyName = "Fec_Res";
-            dataGridViewCellStyle7.Alignment = DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle7.Format = "d";
-            Fec_Res.DefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.Format = "d";
+            Fec_Res.DefaultCellStyle = dataGridViewCellStyle2;
             Fec_Res.HeaderText = "FechaReserva";
             Fec_Res.MinimumWidth = 6;
             Fec_Res.Name = "Fec_Res";
@@ -193,9 +193,9 @@
             // Fec_Ini_Tour
             // 
             Fec_Ini_Tour.DataPropertyName = "Fec_Ini_Tour";
-            dataGridViewCellStyle8.Alignment = DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle8.Format = "d";
-            Fec_Ini_Tour.DefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.Format = "d";
+            Fec_Ini_Tour.DefaultCellStyle = dataGridViewCellStyle3;
             Fec_Ini_Tour.HeaderText = "InicioTour";
             Fec_Ini_Tour.MinimumWidth = 6;
             Fec_Ini_Tour.Name = "Fec_Ini_Tour";
@@ -204,9 +204,9 @@
             // Fec_Fin_Tour
             // 
             Fec_Fin_Tour.DataPropertyName = "Fec_Fin_Tour";
-            dataGridViewCellStyle9.Alignment = DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle9.Format = "d";
-            Fec_Fin_Tour.DefaultCellStyle = dataGridViewCellStyle9;
+            dataGridViewCellStyle4.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle4.Format = "d";
+            Fec_Fin_Tour.DefaultCellStyle = dataGridViewCellStyle4;
             Fec_Fin_Tour.HeaderText = "FinTour";
             Fec_Fin_Tour.MinimumWidth = 6;
             Fec_Fin_Tour.Name = "Fec_Fin_Tour";
@@ -215,8 +215,8 @@
             // Est_Tour
             // 
             Est_Tour.DataPropertyName = "Est_Tour_Des";
-            dataGridViewCellStyle10.Alignment = DataGridViewContentAlignment.MiddleCenter;
-            Est_Tour.DefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            Est_Tour.DefaultCellStyle = dataGridViewCellStyle5;
             Est_Tour.HeaderText = "EstadoTour";
             Est_Tour.MinimumWidth = 6;
             Est_Tour.Name = "Est_Tour";
@@ -279,7 +279,6 @@
             Name = "ReservaMan01";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Mantenimiento de Reservas";
-            FormClosing += ReservaMan01_FormClosing;
             Load += ReservaMan01_Load;
             ((System.ComponentModel.ISupportInitialize)dtgDatos).EndInit();
             ResumeLayout(false);

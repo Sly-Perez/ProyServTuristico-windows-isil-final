@@ -159,9 +159,10 @@ namespace ProyServTuristico_GUI
             //error
         }
 
-        private void ClienteMan03_FormClosing(object sender, FormClosingEventArgs e)
+        private void txtDni_KeyPress(object sender, KeyPressEventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            e.Handled = !(char.IsDigit(e.KeyChar)
+                    || e.KeyChar == (char)Keys.Back);
         }
     }
 }

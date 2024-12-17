@@ -117,9 +117,5 @@ namespace ProyServTuristico_GUI
             }
         }
 
-        private void ReservaMan01_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            NavigationHelper.ReturnToMenuPrincipal(this);
-        }
     }
 }

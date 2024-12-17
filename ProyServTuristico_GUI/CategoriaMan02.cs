@@ -94,7 +94,7 @@ namespace ProyServTuristico_GUI
                         connection.Open();
                         command.ExecuteNonQuery();
                         MessageBox.Show("Categoría agregada con éxito.");
-                        NavigationHelper.ReturnToMenuPrincipal(this);
+                        this.Close();
                     }
                 }
             }
@@ -110,7 +110,7 @@ namespace ProyServTuristico_GUI
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
     }
 }

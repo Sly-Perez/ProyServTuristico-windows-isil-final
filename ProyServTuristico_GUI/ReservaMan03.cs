@@ -33,7 +33,7 @@ namespace ProyServTuristico_GUI
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
 
         private void ReservaMan03_Load(object sender, EventArgs e)
@@ -310,9 +310,5 @@ namespace ProyServTuristico_GUI
             }
         }
 
-        private void ReservaMan03_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            NavigationHelper.ReturnToMenuPrincipal(this);
-        }
     }
 }

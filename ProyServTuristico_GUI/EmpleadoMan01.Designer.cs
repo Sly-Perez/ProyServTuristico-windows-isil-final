@@ -56,9 +56,10 @@
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(374, 324);
+            btnAgregar.Location = new Point(427, 432);
+            btnAgregar.Margin = new Padding(3, 4, 3, 4);
             btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(97, 32);
+            btnAgregar.Size = new Size(111, 43);
             btnAgregar.TabIndex = 1;
             btnAgregar.Text = "Agregar";
             btnAgregar.UseVisualStyleBackColor = true;
@@ -66,9 +67,10 @@
             // 
             // btnActualizar
             // 
-            btnActualizar.Location = new Point(505, 324);
+            btnActualizar.Location = new Point(577, 432);
+            btnActualizar.Margin = new Padding(3, 4, 3, 4);
             btnActualizar.Name = "btnActualizar";
-            btnActualizar.Size = new Size(97, 32);
+            btnActualizar.Size = new Size(111, 43);
             btnActualizar.TabIndex = 1;
             btnActualizar.Text = "Actualizar";
             btnActualizar.UseVisualStyleBackColor = true;
@@ -76,9 +78,10 @@
             // 
             // btnEliminar
             // 
-            btnEliminar.Location = new Point(634, 324);
+            btnEliminar.Location = new Point(725, 432);
+            btnEliminar.Margin = new Padding(3, 4, 3, 4);
             btnEliminar.Name = "btnEliminar";
-            btnEliminar.Size = new Size(97, 32);
+            btnEliminar.Size = new Size(111, 43);
             btnEliminar.TabIndex = 1;
             btnEliminar.Text = "Eliminar";
             btnEliminar.UseVisualStyleBackColor = true;
@@ -86,9 +89,10 @@
             // 
             // btnCerrar
             // 
-            btnCerrar.Location = new Point(761, 324);
+            btnCerrar.Location = new Point(870, 432);
+            btnCerrar.Margin = new Padding(3, 4, 3, 4);
             btnCerrar.Name = "btnCerrar";
-            btnCerrar.Size = new Size(97, 32);
+            btnCerrar.Size = new Size(111, 43);
             btnCerrar.TabIndex = 1;
             btnCerrar.Text = "Cerrar";
             btnCerrar.UseVisualStyleBackColor = true;
@@ -97,18 +101,18 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(73, 332);
+            label4.Location = new Point(83, 443);
             label4.Name = "label4";
-            label4.Size = new Size(58, 15);
+            label4.Size = new Size(73, 20);
             label4.TabIndex = 2;
             label4.Text = "Registros:";
             // 
             // lblRegistros
             // 
             lblRegistros.BorderStyle = BorderStyle.FixedSingle;
-            lblRegistros.Location = new Point(153, 329);
+            lblRegistros.Location = new Point(175, 439);
             lblRegistros.Name = "lblRegistros";
-            lblRegistros.Size = new Size(84, 22);
+            lblRegistros.Size = new Size(96, 29);
             lblRegistros.TabIndex = 2;
             lblRegistros.TextAlign = ContentAlignment.MiddleRight;
             // 
@@ -118,15 +122,14 @@
             dtgEmpleado.AllowUserToDeleteRows = false;
             dtgEmpleado.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dtgEmpleado.Columns.AddRange(new DataGridViewColumn[] { ID_Empleado, Nom_Emp, Ape_Emp, Dni_Emp, Tel_Emp, Email_Emp, Rol_Emp, Estado });
-            dtgEmpleado.Location = new Point(24, 64);
-            dtgEmpleado.Margin = new Padding(3, 2, 3, 2);
+            dtgEmpleado.Location = new Point(27, 85);
             dtgEmpleado.MultiSelect = false;
             dtgEmpleado.Name = "dtgEmpleado";
             dtgEmpleado.ReadOnly = true;
             dtgEmpleado.RowHeadersVisible = false;
             dtgEmpleado.RowHeadersWidth = 51;
             dtgEmpleado.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dtgEmpleado.Size = new Size(878, 236);
+            dtgEmpleado.Size = new Size(1003, 315);
             dtgEmpleado.TabIndex = 4;
             // 
             // ID_Empleado
@@ -209,52 +212,50 @@
             // 
             // txtApeEmpFiltro
             // 
-            txtApeEmpFiltro.Location = new Point(607, 22);
-            txtApeEmpFiltro.Margin = new Padding(3, 2, 3, 2);
+            txtApeEmpFiltro.Location = new Point(694, 29);
             txtApeEmpFiltro.Name = "txtApeEmpFiltro";
-            txtApeEmpFiltro.Size = new Size(110, 23);
+            txtApeEmpFiltro.Size = new Size(125, 27);
             txtApeEmpFiltro.TabIndex = 15;
             // 
             // txtNomEmpFiltro
             // 
-            txtNomEmpFiltro.Location = new Point(391, 22);
-            txtNomEmpFiltro.Margin = new Padding(3, 2, 3, 2);
+            txtNomEmpFiltro.Location = new Point(447, 29);
             txtNomEmpFiltro.Name = "txtNomEmpFiltro";
-            txtNomEmpFiltro.Size = new Size(110, 23);
+            txtNomEmpFiltro.Size = new Size(125, 27);
             txtNomEmpFiltro.TabIndex = 14;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(536, 25);
+            label3.Location = new Point(613, 33);
             label3.Name = "label3";
-            label3.Size = new Size(59, 15);
+            label3.Size = new Size(75, 20);
             label3.TabIndex = 11;
             label3.Text = "Apellidos:";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(327, 25);
+            label2.Location = new Point(374, 33);
             label2.Name = "label2";
-            label2.Size = new Size(54, 15);
+            label2.Size = new Size(67, 20);
             label2.TabIndex = 12;
             label2.Text = "Nombre:";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(39, 25);
+            label1.Location = new Point(45, 33);
             label1.Name = "label1";
-            label1.Size = new Size(133, 15);
+            label1.Size = new Size(170, 20);
             label1.TabIndex = 13;
             label1.Text = "Filtro de Empleado por: ";
             // 
             // EmpleadoMan01
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(932, 392);
+            ClientSize = new Size(1065, 523);
             Controls.Add(txtApeEmpFiltro);
             Controls.Add(txtNomEmpFiltro);
             Controls.Add(label3);
@@ -268,12 +269,12 @@
             Controls.Add(btnActualizar);
             Controls.Add(btnAgregar);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Margin = new Padding(3, 4, 3, 4);
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "EmpleadoMan01";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Buscar Empleado";
-            FormClosing += EmpleadoMan01_FormClosing;
             Load += EmpleadoMan01_Load;
             ((System.ComponentModel.ISupportInitialize)dtgEmpleado).EndInit();
             ResumeLayout(false);

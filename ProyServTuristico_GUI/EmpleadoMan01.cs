@@ -158,14 +158,10 @@ namespace ProyServTuristico_GUI
             }
         }
 
-        private void EmpleadoMan01_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            NavigationHelper.ReturnToMenuPrincipal(this);
-        }
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
     }
 }

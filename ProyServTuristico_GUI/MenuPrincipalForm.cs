@@ -17,12 +17,7 @@ namespace ProyServTuristico_GUI
         public MenuPrincipalForm()
         {
             InitializeComponent();
-            lblUsuario.Text = $"{Session.NombreUsuario}";
-        }
-
-        public void UpdateUserName()
-        {
-            lblUsuario.Text = $"{Session.NombreUsuario}";
+            
         }
 
 
@@ -31,42 +26,58 @@ namespace ProyServTuristico_GUI
 
         private void agregarCategoriaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new CategoriaMan02());
+            CategoriaMan02 frmCategoria02 = new CategoriaMan02();
+            frmCategoria02.MdiParent = this;
+            frmCategoria02.Show();
         }
 
         private void mantenimientoCategoriaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new CategoriaMan01());
+            CategoriaMan01 frmcategoria01 = new CategoriaMan01();
+            frmcategoria01.MdiParent = this;
+            frmcategoria01.Show();
         }
 
         private void agregarClienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new ClientesMan02());
+            ClientesMan02 frmCliente02 = new ClientesMan02();
+            frmCliente02.MdiParent = this;
+            frmCliente02.Show();
         }
 
         private void mantenimientoClienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new ClienteMan01());
+            ClienteMan01 frmCliente01 = new ClienteMan01();
+            frmCliente01.MdiParent = this;
+            frmCliente01.Show();
         }
 
         private void agregarEmpleadoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new EmpleadoMan02());
+            EmpleadoMan02 frmEmpleado02 = new EmpleadoMan02();
+            frmEmpleado02.MdiParent = this;
+            frmEmpleado02.Show();
         }
 
         private void mantenimientoEmpleadoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new EmpleadoMan01());
+            EmpleadoMan01 frmEmpleado01 = new EmpleadoMan01();
+            frmEmpleado01.MdiParent = this;
+            frmEmpleado01.Show();
         }
 
         private void agregarReservaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new ReservaMan02());
+            ReservaMan02 frmReserva02 = new ReservaMan02();
+            frmReserva02.MdiParent = this;
+            frmReserva02.Show();
         }
 
         private void mantenimientoReservaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            NavigationHelper.OpenForm(this, new ReservaMan01());
+            ReservaMan01 frmReserva01 = new ReservaMan01();
+            frmReserva01.MdiParent = this;
+            frmReserva01.Show();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)

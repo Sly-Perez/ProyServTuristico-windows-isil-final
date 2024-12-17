@@ -26,7 +26,7 @@ namespace ProyServTuristico_GUI
 
                 if (esValido)
                 {
-       
+
                     Session.NombreUsuario = nombreUsuario;
 
                     MenuPrincipalForm menuPrincipal = new MenuPrincipalForm();
@@ -61,7 +61,7 @@ namespace ProyServTuristico_GUI
             Application.Exit();
         }
 
-        private void Login_FormClosing(object sender, FormClosingEventArgs e)
+        private void Login_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
         }

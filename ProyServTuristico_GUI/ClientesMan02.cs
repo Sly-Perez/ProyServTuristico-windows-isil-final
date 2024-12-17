@@ -77,7 +77,7 @@ namespace ProyServTuristico_GUI
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-         NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
 
         private void btnGrabar_Click_1(object sender, EventArgs e)
@@ -163,9 +163,10 @@ namespace ProyServTuristico_GUI
 
         }
 
-        private void ClientesMan02_FormClosing(object sender, FormClosingEventArgs e)
+        private void txtDni_KeyPress(object sender, KeyPressEventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            e.Handled = !(char.IsDigit(e.KeyChar)
+                    || e.KeyChar == (char)Keys.Back);
         }
     }
 }

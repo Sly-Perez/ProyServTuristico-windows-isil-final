@@ -142,12 +142,13 @@ namespace ProyServTuristico_GUI
 
         private void btnCancelar_Click_1(object sender, EventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
 
-        private void EmpleadoMan03_FormClosing(object sender, FormClosingEventArgs e)
+        private void txtDni_KeyPress(object sender, KeyPressEventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            e.Handled = !(char.IsDigit(e.KeyChar)
+                    || e.KeyChar == (char)Keys.Back);
         }
     }
 }

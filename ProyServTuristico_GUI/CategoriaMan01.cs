@@ -120,7 +120,7 @@ namespace ProyServTuristico_GUI
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            NavigationHelper.ReturnToMenuPrincipal(this);
+            this.Close();
         }
 
         private void dgvCategorias_CellContentClick(object sender, DataGridViewCellEventArgs e)

@@ -159,11 +159,13 @@
             // 
             txtDni.Location = new Point(86, 99);
             txtDni.Margin = new Padding(3, 4, 3, 4);
+            txtDni.MaxLength = 8;
             txtDni.Name = "txtDni";
             txtDni.PlaceholderText = "Ingresa 8 dígitos";
             txtDni.Size = new Size(125, 27);
             txtDni.TabIndex = 5;
             txtDni.TextAlign = HorizontalAlignment.Right;
+            txtDni.KeyPress += txtDni_KeyPress;
             txtDni.Validating += txtDni_Validating;
             // 
             // txtTelefono

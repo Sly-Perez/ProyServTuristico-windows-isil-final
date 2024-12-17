@@ -196,6 +196,7 @@
             txtDni.PlaceholderText = "Ingresa 8 dígitos:";
             txtDni.Size = new Size(163, 27);
             txtDni.TabIndex = 5;
+            txtDni.KeyPress += txtDni_KeyPress;
             txtDni.Validating += txtDni_Validating;
             // 
             // btnCancelar
@@ -274,7 +275,6 @@
             Margin = new Padding(2, 3, 2, 3);
             Name = "ClientesMan02";
             Text = "Ingresar :";
-            FormClosing += ClientesMan02_FormClosing;
             Load += ClientesMan02_Load;
             gboxGenero.ResumeLayout(false);
             gboxGenero.PerformLayout();
