@@ -56,7 +56,7 @@ namespace ProyServTuristico_ADO
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.CommandText = "usp_ConsultarEmpleado";
                 cmd.Parameters.Clear();
-                cmd.Parameters.AddWithValue("@vID_Emp", idEmp);
+                cmd.Parameters.AddWithValue("@ID_Empleado", idEmp);
 
                 cnx.Open();
                 dtr = cmd.ExecuteReader();
@@ -71,6 +71,15 @@ namespace ProyServTuristico_ADO
                     objEmpleadoBE.Tel_Emp = dtr["Tel_Emp"].ToString();
                     objEmpleadoBE.Email_Emp = dtr["Email_Emp"].ToString();
                     objEmpleadoBE.Rol_Emp = dtr["Rol_Emp"].ToString();
+                    if (objEmpleadoBE.Rol_Emp == "Empleado" || objEmpleadoBE.Rol_Emp == "Supervisor")
+                    {
+                        objEmpleadoBE.Supervisot_ID = Convert.ToInt16(dtr["Supervisor_ID"]);
+                    }
+                    else
+                    {
+                        ;
+                    }
+                    
                     objEmpleadoBE.Estado = dtr["Estado"].ToString();
                 }
                 dtr.Close();
@@ -99,11 +108,17 @@ namespace ProyServTuristico_ADO
                 cmd.Parameters.Clear();
 
                 
-                cmd.Parameters.AddWithValue("@vNom_Emp", objEmpleadoBE.Nom_Emp);
-                cmd.Parameters.AddWithValue("@vApe_Emp", objEmpleadoBE.Ape_Emp);
-                cmd.Parameters.AddWithValue("@vDni_Emp", objEmpleadoBE.Dni_Emp);
-                cmd.Parameters.AddWithValue("@vTel_Emp", objEmpleadoBE.Tel_Emp);
-                cmd.Parameters.AddWithValue("@vRol_Emp", objEmpleadoBE.Rol_Emp);
+                cmd.Parameters.AddWithValue("@Nom", objEmpleadoBE.Nom_Emp);
+                cmd.Parameters.AddWithValue("@Ape", objEmpleadoBE.Ape_Emp);
+                cmd.Parameters.AddWithValue("@Dni", objEmpleadoBE.Dni_Emp);
+                cmd.Parameters.AddWithValue("@Tel", objEmpleadoBE.Tel_Emp);
+                cmd.Parameters.AddWithValue("@Email", objEmpleadoBE.Email_Emp);
+                cmd.Parameters.AddWithValue("@Rol", objEmpleadoBE.Rol_Emp);
+
+                if (objEmpleadoBE.Supervisot_ID > 0)
+                    cmd.Parameters.AddWithValue("@Supervisor_ID", objEmpleadoBE.Supervisot_ID);
+
+                cmd.Parameters.AddWithValue("@Usu_Reg", objEmpleadoBE.Usu_Reg);
                 cmd.Parameters.AddWithValue("@vEstado", objEmpleadoBE.Estado);
 
 
@@ -134,12 +149,18 @@ namespace ProyServTuristico_ADO
                 cmd.CommandText = "usp_ActualizarEmpleado";
                 cmd.Parameters.Clear();
 
-                cmd.Parameters.AddWithValue("@vNom_Emp", objEmpleadoBE.Nom_Emp);
-                cmd.Parameters.AddWithValue("@vApe_Emp", objEmpleadoBE.Ape_Emp);
-                cmd.Parameters.AddWithValue("@vDni_Emp", objEmpleadoBE.Dni_Emp);
-                cmd.Parameters.AddWithValue("@vTel_Emp", objEmpleadoBE.Tel_Emp);
-                cmd.Parameters.AddWithValue("@vRol_Emp", objEmpleadoBE.Rol_Emp);
-                cmd.Parameters.AddWithValue("@vEstado", objEmpleadoBE.Estado);
+                cmd.Parameters.AddWithValue("@ID", objEmpleadoBE.ID_Empleado);
+                cmd.Parameters.AddWithValue("@Nom", objEmpleadoBE.Nom_Emp);
+                cmd.Parameters.AddWithValue("@Ape", objEmpleadoBE.Ape_Emp);
+                cmd.Parameters.AddWithValue("@Dni", objEmpleadoBE.Dni_Emp);
+                cmd.Parameters.AddWithValue("@Tel", objEmpleadoBE.Tel_Emp);
+                cmd.Parameters.AddWithValue("@Email", objEmpleadoBE.Email_Emp);
+                cmd.Parameters.AddWithValue("@Rol", objEmpleadoBE.Rol_Emp);
+                if (objEmpleadoBE.Supervisot_ID > 0)
+                    cmd.Parameters.AddWithValue("@Supervisor_ID", objEmpleadoBE.Supervisot_ID);
+
+                cmd.Parameters.AddWithValue("@Usu_Ult_Mod", objEmpleadoBE.Usu_Ult_Mod);
+                cmd.Parameters.AddWithValue("@Estado", objEmpleadoBE.Estado);
 
 
                 cnx.Open();
@@ -195,6 +216,37 @@ namespace ProyServTuristico_ADO
             }
 
 
+        }
+
+        public DataTable listarEmpleadoxRol(String strRol)
+        {
+            try
+            {
+                cnx.ConnectionString = miConexionADO.ObtenerCadenaCnx();
+                cmd.Connection = cnx;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "usp_ListarEmpleadosxRol";
+                cmd.Parameters.Clear();
+
+                cmd.Parameters.AddWithValue("@vRol_Emp", strRol);
+
+                SqlDataAdapter ada = new SqlDataAdapter(cmd);
+                DataSet dts = new DataSet();
+
+                ada.Fill(dts, "Empleados");
+                return dts.Tables["Empleados"];
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+            finally
+            {
+                if (cnx.State == ConnectionState.Open)
+                {
+                    cnx.Close();
+                }
+            }
         }
     }
 }

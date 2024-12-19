@@ -44,13 +44,29 @@ namespace ProyServTuristico_GUI
                     txtTelefono.Text = objEmpleadoBE.Tel_Emp;
                     txtEmail.Text = objEmpleadoBE.Email_Emp;
                     cboCargo.Text = objEmpleadoBE.Rol_Emp;
-                    dtRegistro.Value = objEmpleadoBE.Fec_Reg;
 
 
                     if (objEmpleadoBE.Estado == "Activo")
-                        txtActivo.Checked = true;
+                        rtbActivo.Checked = true;
                     else
-                        txtActivo.Checked = false;
+                        rtbInactivo.Checked = true;
+
+                    if (objEmpleadoBE.Rol_Emp == "Gerente")
+                        cboCargo.SelectedIndex = 0;
+                    else if (objEmpleadoBE.Rol_Emp == "Supervisor")
+                        cboCargo.SelectedIndex = 1;
+                    else
+                        cboCargo.SelectedIndex = 2;
+
+                    CargarDatosEmpleadosxRol(Convert.ToInt16(cboCargo.SelectedIndex));
+                    if (cboCargo.SelectedIndex == 0)
+                    {
+                        ;
+                    }
+                    else
+                    {
+                        cboSupervisores.SelectedValue = objEmpleadoBE.Supervisot_ID;
+                    }
                 }
                 else
                 {
@@ -91,15 +107,31 @@ namespace ProyServTuristico_GUI
                 if (!rtbActivo.Checked && !rtbInactivo.Checked)
                     errores.Add("Debe seleccionar el estado.");
 
+                if (Convert.ToInt16(cboSupervisores.SelectedValue) == this.ID_Empleado)
+                {
+                    throw new Exception("No puede asignar como supervisor del empleado actual al empleado actual");
+                }
 
 
+
+                objEmpleadoBE.ID_Empleado = this.ID_Empleado;
                 objEmpleadoBE.Nom_Emp = txtNombre.Text.Trim();
                 objEmpleadoBE.Ape_Emp = txtApellidos.Text.Trim();
                 objEmpleadoBE.Dni_Emp = txtDni.Text.Trim();
-                objEmpleadoBE.Email_Emp = txtEmail.Text.Trim();
                 objEmpleadoBE.Tel_Emp = txtTelefono.Text.Trim();
-                objEmpleadoBE.Rol_Emp = cboCargo.Text.Trim();
-                objEmpleadoBE.Fec_Reg = dtRegistro.Value;
+                objEmpleadoBE.Email_Emp = txtEmail.Text.Trim();
+
+                if (cboCargo.SelectedIndex == 0)
+                    objEmpleadoBE.Rol_Emp = "Gerente";
+                else if (cboCargo.SelectedIndex == 1)
+                    objEmpleadoBE.Rol_Emp = "Supervisor";
+                else
+                    objEmpleadoBE.Rol_Emp = "Empleado";
+
+                if (cboSupervisores.Visible == true)
+                    objEmpleadoBE.Supervisot_ID = Convert.ToInt16(cboSupervisores.SelectedValue);
+                else
+                    objEmpleadoBE.Supervisot_ID = 0;
 
                 //para el campo Estado
 
@@ -149,6 +181,76 @@ namespace ProyServTuristico_GUI
         {
             e.Handled = !(char.IsDigit(e.KeyChar)
                     || e.KeyChar == (char)Keys.Back);
+        }
+
+        private void CargarDatosEmpleadosxRol(Int16 indice)
+        {
+            try
+            {
+                String strRol;
+                if (indice > 0)
+                {
+                    if (indice == 1)
+                    {
+                        strRol = "Gerente";
+                    }
+                    else
+                    {
+                        strRol = "Supervisor";
+                    }
+
+                    DataTable dt2 = objEmpleadoBL.listarEmpleadoxRol(strRol);
+
+                    cboSupervisores.DataSource = dt2;
+                    cboSupervisores.ValueMember = "ID_Empleado";
+                    cboSupervisores.DisplayMember = "Nom_Emp";
+
+
+                    cboSupervisores.Visible = true;
+                    label7.Visible = true;
+                }
+                else
+                {
+                    cboSupervisores.DataSource = null;
+                    cboSupervisores.Visible = false;
+                    label7.Visible = false;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void cboCargo_SelectionChangeCommitted(object sender, EventArgs e)
+        {
+            try
+            {
+
+                CargarDatosEmpleadosxRol(Convert.ToInt16(cboCargo.SelectedIndex));
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void cboSupervisores_SelectionChangeCommitted(object sender, EventArgs e)
+        {
+            try
+            {
+                if (Convert.ToInt16(cboSupervisores.SelectedValue) == this.ID_Empleado)
+                {
+                    throw new Exception("No puede asignar como supervisor del empleado actual al empleado actual");
+                }
+            }
+            catch(Exception ex)
+            {
+                CargarDatosEmpleadosxRol(Convert.ToInt16(cboCargo.SelectedIndex));
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

@@ -29,7 +29,16 @@ namespace ProyServTuristico_GUI
 
         private void EmpleadoMan02_Load(object sender, EventArgs e)
         {
+            try
+            {
+                cboCargo.SelectedIndex = 0;
 
+                CargarDatosEmpleadosxRol(Convert.ToInt16(cboCargo.SelectedIndex));
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void btnGrabar_Click(object sender, EventArgs e)
@@ -52,8 +61,6 @@ namespace ProyServTuristico_GUI
                 if (string.IsNullOrWhiteSpace(txtEmail.Text))
                     throw new Exception("Debe ingresar el emial del empleado.");
 
-                if (dtRegistro.Value == null || dtRegistro.Value > DateTime.Now)
-                    throw new Exception("Ingrese una fecha de registro válida.");
 
 
                 objEmpleadoBE.Dni_Emp = txtDni.Text.Trim();
@@ -63,12 +70,21 @@ namespace ProyServTuristico_GUI
                 objEmpleadoBE.Email_Emp = txtEmail.Text.Trim();
                 objEmpleadoBE.Rol_Emp = cboCargo.Text.Trim();
 
-                if (string.IsNullOrWhiteSpace(objEmpleadoBE.Email_Emp))
+                if(cboSupervisores.Visible == true)
                 {
-                    throw new Exception("El email del empleado es obligatorio.");
+                    objEmpleadoBE.Supervisot_ID = Convert.ToInt16(cboSupervisores.SelectedValue);
                 }
+                else
+                {
+                    ;
+                }
+                objEmpleadoBE.Usu_Reg = "jleoncitocraft";
 
-                objEmpleadoBE.Fec_Reg = dtRegistro.Value;
+                if (chkActivo.Checked == true)
+                    objEmpleadoBE.Estado = "Activo";
+                else
+                    objEmpleadoBE.Estado = "Inactivo";
+
 
                 if (objEmpleadoBL.InsertarEmpleado(objEmpleadoBE))
                 {
@@ -106,5 +122,58 @@ namespace ProyServTuristico_GUI
             e.Handled = !(char.IsDigit(e.KeyChar)
                     || e.KeyChar == (char)Keys.Back);
         }
+
+        private void cboCargo_SelectedValueChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                CargarDatosEmpleadosxRol(Convert.ToInt16(cboCargo.SelectedIndex));
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void CargarDatosEmpleadosxRol(Int16 indice)
+        {
+            try
+            {
+                String strRol;
+                if (indice > 0)
+                {
+                    if (indice == 1)
+                    {
+                        strRol = "Gerente";
+                    }
+                    else
+                    {
+                        strRol = "Supervisor";
+                    }
+
+                    DataTable dt2 = objEmpleadoBL.listarEmpleadoxRol(strRol);
+
+                    cboSupervisores.DataSource = dt2;
+                    cboSupervisores.ValueMember = "ID_Empleado";
+                    cboSupervisores.DisplayMember = "Nom_Emp";
+                    
+
+                    cboSupervisores.Visible = true;
+                    label7.Visible = true;
+                }
+                else
+                {
+                    cboSupervisores.DataSource = null;
+                    cboSupervisores.Visible = false;
+                    label7.Visible = false;
+                }
+                
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
     }
 }

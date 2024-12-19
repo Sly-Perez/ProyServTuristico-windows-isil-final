@@ -94,3 +94,4 @@ D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-wi
 D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.pdb
 D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.genruntimeconfig.cache
 D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ref\ProyServTuristico_GUI.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_GUI\obj\Release\net8.0-windows\ProyServTuristico_GUI.sourcelink.json

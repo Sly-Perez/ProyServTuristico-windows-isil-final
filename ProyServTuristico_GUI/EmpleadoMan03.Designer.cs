@@ -28,8 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dtRegistro = new DateTimePicker();
-            label9 = new Label();
             btnCancelar = new Button();
             btnGrabar = new Button();
             txtDni = new TextBox();
@@ -47,27 +45,10 @@
             label1 = new Label();
             cboCargo = new ComboBox();
             label4 = new Label();
+            label7 = new Label();
+            cboSupervisores = new ComboBox();
             gboxEstado.SuspendLayout();
             SuspendLayout();
-            // 
-            // dtRegistro
-            // 
-            dtRegistro.Format = DateTimePickerFormat.Short;
-            dtRegistro.Location = new Point(649, 151);
-            dtRegistro.Margin = new Padding(2, 3, 2, 3);
-            dtRegistro.Name = "dtRegistro";
-            dtRegistro.Size = new Size(158, 27);
-            dtRegistro.TabIndex = 54;
-            // 
-            // label9
-            // 
-            label9.AutoSize = true;
-            label9.Location = new Point(522, 156);
-            label9.Margin = new Padding(2, 0, 2, 0);
-            label9.Name = "label9";
-            label9.Size = new Size(126, 20);
-            label9.TabIndex = 53;
-            label9.Text = "Fecha de registro:";
             // 
             // btnCancelar
             // 
@@ -124,11 +105,13 @@
             // rtbActivo
             // 
             rtbActivo.AutoSize = true;
+            rtbActivo.Checked = true;
             rtbActivo.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             rtbActivo.Location = new Point(18, 37);
             rtbActivo.Name = "rtbActivo";
             rtbActivo.Size = new Size(72, 24);
             rtbActivo.TabIndex = 0;
+            rtbActivo.TabStop = true;
             rtbActivo.Text = "Activo";
             rtbActivo.UseVisualStyleBackColor = true;
             // 
@@ -215,11 +198,13 @@
             // 
             cboCargo.DropDownStyle = ComboBoxStyle.DropDownList;
             cboCargo.FormattingEnabled = true;
+            cboCargo.Items.AddRange(new object[] { "Gerente", "Supervisor", "Empleado" });
             cboCargo.Location = new Point(98, 149);
             cboCargo.Margin = new Padding(3, 4, 3, 4);
             cboCargo.Name = "cboCargo";
             cboCargo.Size = new Size(292, 28);
             cboCargo.TabIndex = 56;
+            cboCargo.SelectionChangeCommitted += cboCargo_SelectionChangeCommitted;
             // 
             // label4
             // 
@@ -230,15 +215,35 @@
             label4.TabIndex = 55;
             label4.Text = "Cargo:";
             // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(445, 153);
+            label7.Name = "label7";
+            label7.Size = new Size(81, 20);
+            label7.TabIndex = 57;
+            label7.Text = "Supervisor:";
+            // 
+            // cboSupervisores
+            // 
+            cboSupervisores.DropDownStyle = ComboBoxStyle.DropDownList;
+            cboSupervisores.FormattingEnabled = true;
+            cboSupervisores.Location = new Point(532, 149);
+            cboSupervisores.Margin = new Padding(3, 4, 3, 4);
+            cboSupervisores.Name = "cboSupervisores";
+            cboSupervisores.Size = new Size(292, 28);
+            cboSupervisores.TabIndex = 58;
+            cboSupervisores.SelectionChangeCommitted += cboSupervisores_SelectionChangeCommitted;
+            // 
             // EmpleadoMan03
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(833, 331);
+            Controls.Add(cboSupervisores);
+            Controls.Add(label7);
             Controls.Add(cboCargo);
             Controls.Add(label4);
-            Controls.Add(dtRegistro);
-            Controls.Add(label9);
             Controls.Add(btnCancelar);
             Controls.Add(btnGrabar);
             Controls.Add(txtDni);
@@ -267,9 +272,6 @@
         }
 
         #endregion
-
-        private DateTimePicker dtRegistro;
-        private Label label9;
         private CheckBox txtActivo;
         private Button btnCancelar;
         private Button btnGrabar;
@@ -289,5 +291,7 @@
         private TextBox txtNombre;
         private Label label1;
         private ComboBox cboCargo;
+        private Label label7;
+        private ComboBox cboSupervisores;
     }
 }

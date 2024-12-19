@@ -39,6 +39,9 @@ namespace ProyServTuristico_BL
         }
 
 
-
+        public DataTable listarEmpleadoxRol(String strRol)
+        {
+            return objEmpleadoADO.listarEmpleadoxRol(strRol);
+        }
     }
 }

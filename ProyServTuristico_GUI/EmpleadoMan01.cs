@@ -107,7 +107,6 @@ namespace ProyServTuristico_GUI
                 EmpleadoMan03 objMan03 = new EmpleadoMan03();
                 objMan03.ID_Empleado = idEmpleado;
 
-
                 if (objMan03.ShowDialog() == DialogResult.OK)
                 {
                     CargarDatos(txtNomEmpFiltro.Text.Trim(), txtApeEmpFiltro.Text.Trim());

@@ -28,3 +28,4 @@ D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_ADO\obj\Release\net8.0\Pr
 D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_ADO\obj\Release\net8.0\refint\ProyServTuristico_ADO.dll
 D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_ADO\obj\Release\net8.0\ProyServTuristico_ADO.pdb
 D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_ADO\obj\Release\net8.0\ref\ProyServTuristico_ADO.dll
+D:\ISIL\DES. APP I\ProyServTuristico\ProyServTuristico_ADO\obj\Release\net8.0\ProyServTuristico_ADO.sourcelink.json

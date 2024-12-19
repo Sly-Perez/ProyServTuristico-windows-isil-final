@@ -43,8 +43,8 @@
             txtTelefono = new TextBox();
             txtEmail = new TextBox();
             label6 = new Label();
-            dtRegistro = new DateTimePicker();
-            label9 = new Label();
+            cboSupervisores = new ComboBox();
+            label7 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -110,6 +110,7 @@
             cboCargo.Name = "cboCargo";
             cboCargo.Size = new Size(292, 28);
             cboCargo.TabIndex = 9;
+            cboCargo.SelectedValueChanged += cboCargo_SelectedValueChanged;
             // 
             // chkActivo
             // 
@@ -195,32 +196,32 @@
             label6.TabIndex = 16;
             label6.Text = "Email:";
             // 
-            // dtRegistro
+            // cboSupervisores
             // 
-            dtRegistro.Format = DateTimePickerFormat.Short;
-            dtRegistro.Location = new Point(595, 152);
-            dtRegistro.Margin = new Padding(2);
-            dtRegistro.Name = "dtRegistro";
-            dtRegistro.Size = new Size(158, 27);
-            dtRegistro.TabIndex = 22;
+            cboSupervisores.DropDownStyle = ComboBoxStyle.DropDownList;
+            cboSupervisores.FormattingEnabled = true;
+            cboSupervisores.Location = new Point(488, 151);
+            cboSupervisores.Margin = new Padding(3, 4, 3, 4);
+            cboSupervisores.Name = "cboSupervisores";
+            cboSupervisores.Size = new Size(292, 28);
+            cboSupervisores.TabIndex = 60;
             // 
-            // label9
+            // label7
             // 
-            label9.AutoSize = true;
-            label9.Location = new Point(468, 157);
-            label9.Margin = new Padding(2, 0, 2, 0);
-            label9.Name = "label9";
-            label9.Size = new Size(126, 20);
-            label9.TabIndex = 21;
-            label9.Text = "Fecha de registro:";
+            label7.AutoSize = true;
+            label7.Location = new Point(401, 154);
+            label7.Name = "label7";
+            label7.Size = new Size(81, 20);
+            label7.TabIndex = 59;
+            label7.Text = "Supervisor:";
             // 
             // EmpleadoMan02
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(791, 321);
-            Controls.Add(dtRegistro);
-            Controls.Add(label9);
+            Controls.Add(cboSupervisores);
+            Controls.Add(label7);
             Controls.Add(txtEmail);
             Controls.Add(label6);
             Controls.Add(txtTelefono);
@@ -265,7 +266,7 @@
         private TextBox txtTelefono;
         private TextBox txtEmail;
         private Label label6;
-        private DateTimePicker dtRegistro;
-        private Label label9;
+        private ComboBox cboSupervisores;
+        private Label label7;
     }
 }
